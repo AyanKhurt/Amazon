@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+body {
+    margin: 0;
+    background-color: rgb(253, 216, 146);
+}
+.div1 {
+    background-color: black;
+    color: white;
+    font-family: "Anton", sans-serif;
+}
+.img1:hover {
+     border: 2px solid gold;
+}
+.ul1{
+    list-style: none;
+    margin-right: 50px;
+}
+.li1{
+    color: white;
+    margin-top: 8px;
+}
+.nav1{
+    display: flex;
+}
+select {
+    background-color: black;
+    color: white;
+}
+input {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    width: 400px;
+}
+.search {
+    background-color: orange;
+}
+button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+button:hover {
+    cursor: pointer;
+}
+input , button {
+    border: 5px solid white;
+}
+.English {
+    border: 3px solid white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100px;
+    text-align: center;
+    margin-right: 20px;
+}
+.Account {
+    margin-top: 17px;
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+}
+.English:hover {
+    border: 2px solid gold;
+    color: white;
+}
+.Account:hover {
+    border: 2px solid gold;
+}
+.div2 {
+    background-color: rgb(35, 32, 32);
+}
+.ul2 {
+    margin-top: 10;
+    display: inline-flex;
+}
+.li2 {
+    text-decoration: none;
+    margin-right: 25px;
+    color: white;
+}
+.li2:hover {
+    border: 2px solid gold;
+}
+li {
+    list-style: none;
+}
+.div3 {
+    display: flex;
+}
+.card1 {
+    border: 3px solid white;
+    width: 275px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 25px;
+}
+.mainimg1 {
+    margin-left: 10px;
+}
+.li3 {
+    text-decoration: none;
+    margin: 10px;
+}
+.divh2 {
+    margin: 10px;
+}
+.div4 {
+    display: flex;
+    margin-bottom: 50px;
+}
+.div5 {
+    background-color: rgb(50, 49, 49);
+}
+.footer {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 22px;
+}
+.footer:hover {
+    background-color: rgb(87, 87, 87);
+}
+.li0 {
+    color: white;
+    width: 315px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+.li11 {
+    margin-bottom: 5px;
+    margin-left: 120px;
+    line-height: 25px;
+}
+.div7 {
+    background-color: rgb(40, 40, 40);
+    display: flex;
+    font-family: "Oswald", sans-serif;
+}
+.div6 {
+    padding-top: 50px;
+}
+.lastdiv {
+    background-color: rgb(7, 7, 7);
+    border-top: 2px solid rgb(130, 129, 129);
+
+}
+.lastimg {
+    padding-left: 350px;
+}
+.lastoption {
+    text-align: center;
+    padding: 20px
+}
+.lastselect {
+    font-size: 20px;
+    border: 2px solid gray;
+    margin-right: 40px;
+}
+.last {
+    background-color: black;
+}
